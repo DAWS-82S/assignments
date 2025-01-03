@@ -3,6 +3,7 @@
 Write a script that reads a text file and counts the occurrences of each word, displaying the top 5 most frequent words along with their counts.
 
 ### File Transpose
+word_count.sh
 
 Given a text file file.txt, transpose its content.
 You may assume that each row has the same number of columns, and each field is separated by the ' ' character.
